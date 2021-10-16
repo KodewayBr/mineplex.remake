@@ -1,0 +1,4 @@
+name: Mineplex_-_Server
+main: io.gthub.gabrielsystem.mineplex.remake.MineplexClientPlugin
+version: 1.0-SNAPSHOT
+author: Gabriel_System
